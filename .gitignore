@@ -1,0 +1,13 @@
+# Python
+Backend/venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node
+cliente/node_modules/
+cliente/dist/
